@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_cal.xml" value="0.2957427536231884" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_intro.xml" value="0.36614583333333334" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_list.xml" value="0.2957427536231884" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_list_custom.xml" value="0.3515625" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_main.xml" value="0.2210144927536232" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_next.xml" value="0.36614583333333334" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_research.xml" value="0.2767210144927536" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_sheard_preference.xml" value="0.36614583333333334" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/activity_splash.xml" value="0.36614583333333334" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/fragment_first.xml" value="0.36614583333333334" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/fragment_second.xml" value="0.36614583333333334" />
+        <entry key="..\:/leejunggon/app/src/main/res/layout/listviewcustom_layout.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
